@@ -1,0 +1,12 @@
+settings/bot_settings.py
+
+settings/open_AI_settings.py
+
+venv
+
+settings
+
+.idea
+
+
+__pycache__/
