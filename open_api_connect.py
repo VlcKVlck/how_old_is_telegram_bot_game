@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 key = open_AI_settings.key
 
-openai.organization = "org-PBv1I8A5NaoSiPDTloTOKS9J"
+openai.organization = open_AI_settings.org
 openai.api_key = key
 
 openai.Model.list()
